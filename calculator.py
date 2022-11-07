@@ -6,7 +6,6 @@ from exceptions      import OperationException, NumberFormatException
 Hauptprogramm des Rechners.
 '''
 
-
 class Calculator:
 
     @staticmethod
